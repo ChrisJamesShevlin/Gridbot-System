@@ -1,12 +1,4 @@
 
-
-Skip to content
-Using Gmail with screen readers
-Conversations
-11.53 GB of 15 GB (76%) used
-Terms · Privacy · Program Policies
-Last account activity: 51 minutes ago
-Details
 //+------------------------------------------------------------------+
 //|                                                      MyExpert.mq4|
 //|                        Copyright 2021, MetaQuotes Software Corp. |
