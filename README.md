@@ -11,7 +11,7 @@ This repository contains the source code for **MyExpert**, a grid trading bot de
 - [Trading Logic](#trading-logic)
 - [Error Handling](#error-handling)
 - [Customization](#customization)
-- [License](#license)
+
 
 ## Overview
 
@@ -104,10 +104,5 @@ This ensures that any issues with order placement are logged for troubleshooting
    initialOrdersPlaced = false;
    ```
 
-## License
-
-This project is licensed under the MetaQuotes License for MT4. See the [LICENSE](./LICENSE) file for more details.
-
----
 
 This Expert Advisor is designed to help you implement a grid trading strategy in MT4. It is intended as a starting point, and you can modify the code to suit your specific trading strategy or risk management preferences.
